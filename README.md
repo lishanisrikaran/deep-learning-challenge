@@ -25,3 +25,5 @@ The following are contained in this repository:
 - The AlphabetSoupCharity.ipynb - This contains the an adapted deep learning model which optimises the initial model's performance
 - H5 files for AlphabetSoupCharity and AlphabetSoupCharity
 - A report which summarises the results of the models created
+
+The ipynb files were coded in Google Collaboratory and downloaded; you can upload the ipynb into your relative Google Collaboratory to rerun without prerequisite installations.
